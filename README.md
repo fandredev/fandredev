@@ -4,12 +4,12 @@
 </div>
           
 
-## O que estou estudando e aprimorando?
+## What am I studying and improving?
 <div style="display: flex; align-items:center">
 <img src="https://skillicons.dev/icons?i=tailwind,jest,python,django,typescript" />
 </div>
 
-## Sistema
+## System
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="140" height="140" loading="lazy" />
                   
