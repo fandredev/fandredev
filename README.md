@@ -25,5 +25,5 @@
 <h1>Stats:</h1>
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fandredev&show_icons=true&theme=radical)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fandredev&theme=shades-of-purple" alt="stats" />
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@orydev/144849ba-b76e-4dc1-b2a7-08fc70587898.png" /></a>
