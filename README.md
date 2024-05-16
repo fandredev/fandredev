@@ -1,6 +1,6 @@
 ## My techs: 
 <div>
-    <img src="https://skillicons.dev/icons?i=python,typescript,html,scss,django,python,react,cypress" /><br>
+    <img src="https://skillicons.dev/icons?i=python,typescript,html,scss,django,python,react,cypress,ubuntu,postman" /><br>
 </div>
           
 
@@ -9,10 +9,7 @@
 <img src="https://skillicons.dev/icons?i=tailwind,jest,python,django,typescript" />
 </div>
 
-## System
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="140" height="140" loading="lazy" />
-                  
+   
 ## IDEs
 
 <div>
