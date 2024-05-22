@@ -1,12 +1,12 @@
 ## My techs: 
 <div>
-    <img src="https://skillicons.dev/icons?i=css,typescript,html,scss,django,python,react,angular,cypress,ubuntu,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,django,react,angular,cypress,ubuntu,postman" /><br>
 </div>
           
 
-## What am i studying and improving?
+## What am i working today?
 <div style="display: flex; align-items:center">
-<img src="https://skillicons.dev/icons?i=tailwind,jest,python,django,typescript" />
+<img src="https://skillicons.dev/icons?i=tailwind,jest,python,django,typescript,react" />
 </div>
 
    
