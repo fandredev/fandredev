@@ -1,6 +1,6 @@
 ## My techs: 
 <div>
-    <img src="https://skillicons.dev/icons?i=python,typescript,html,scss,django,python,react,angular,cypress,ubuntu,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=css,typescript,html,scss,django,python,react,angular,cypress,ubuntu,postman" /><br>
 </div>
           
 
