@@ -21,6 +21,6 @@
     
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fandredev&show_icons=true&theme=radical)
     
-[![Felipe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thistate)]
+![Felipe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thistate)
 
 </div>
