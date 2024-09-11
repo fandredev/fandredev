@@ -13,7 +13,7 @@
 ## IDEs
 
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm" width="10%" alt="Images for my ide's" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm"  alt="Images for my ide's" />
 </div>
 
 ## Stats
