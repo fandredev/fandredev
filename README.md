@@ -15,6 +15,6 @@
 
 ## What am i working on today?
 <div style="display: flex; align-items:center">
-<img src="https://skillicons.dev/icons?i=python,django,typescript,react,vite,vscode,postgres,docker" alt="Images for my techs: python,django,typescript,react,vite,vscode,postgres,docker" />
+<img src="https://skillicons.dev/icons?i=python,django,typescript,react,vite,vscode,postgres,docker,tailwind" alt="Images for my techs: python,django,typescript,react,vite,vscode,postgres,docker,tailwind" />
 </div>
 
