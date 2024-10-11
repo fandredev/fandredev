@@ -1,6 +1,8 @@
-## What am i working on today?
+## Main technologies
 <div style="display: flex; align-items:center">
-<img src="https://skillicons.dev/icons?i=python,django,typescript,react,vite,vscode,postgres,docker,tailwind" alt="Images for my techs: python,django,typescript,react,vite,vscode,postgres,docker,tailwind" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,python,django,typescript,react,nestjs,postgres,docker,tailwind" />
+  </a>
 </div>
 
 
