@@ -5,10 +5,5 @@
   </a>
 </div>
 
-<div align="center">
-    
-![Felipe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thistate)
-
-</div> 
 
 
