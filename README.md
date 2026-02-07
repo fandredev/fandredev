@@ -4,6 +4,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,python,django,typescript,react,angular,nestjs,postgres,docker,tailwind" />
   </a>
 </div>
+<br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C236%20hrs%2020%20mins-blue?style=flat)
