@@ -7,8 +7,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C336%20hrs%2045%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 150.5 kB Used in GitHub's Storage 
@@ -21,42 +19,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                13537 commits       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-🌆 Daytime                38250 commits       ████████████████░░░░░░░░░   62.09 % 
-🌃 Evening                9294 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-🌙 Night                  528 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6101 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Tuesday                  14134 commits       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Wednesday                14031 commits       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Thursday                 11795 commits       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Friday                   14084 commits       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Saturday                 752 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Sunday                   712 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,5 +36,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fandredev/fandredev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 04:53:47 UTC
+ Last Updated on 15/05/2026 04:56:22 UTC
 <!--END_SECTION:waka-->
