@@ -50,46 +50,46 @@ Sunday                   1250 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
-Other                    1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Markdown                 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
+Markdown                 1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Other                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 40 mins       ███████████████░░░░░░░░░░   60.65 % 
-OpenClaw                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Antigravity              57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-DBeaver                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Claude Code              5 hrs 36 mins       █████████████████░░░░░░░░   66.29 % 
+OpenClaw                 1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Antigravity              1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+DBeaver                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Linux                    6 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    8 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 19 mins (88.14%)
+⏱ AI Coding Time: 7 hrs 44 mins (91.53%)
 
-✍️ 4,027 lines written by AI, 2 lines written by hand (99.95% AI-written)
+✍️ 4,892 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 3,057,261 Input Tokens, 543,562 Output Tokens
+🔤 3,854,828 Input Tokens, 804,158 Output Tokens
 
-💵 $66.36 Estimated AI Cost This Week
+💵 $99.83 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 78 AI Prompts
+🧠 60 AI Sessions, 95 AI Prompts
 
-Sonnet                   4,430 lines         █████████████████████████   100.00 % 
+Sonnet                   5,311 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OpenClaw                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 345 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📝 Concise Prompter — average 399 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,5 +109,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fandredev/fandredev/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 09:07:38 UTC
+ Last Updated on 14/09/2026 09:50:30 UTC
 <!--END_SECTION:waka-->
