@@ -50,33 +50,33 @@ Sunday                   1364 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-Markdown                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Other                    1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-SQL                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TypeScript               2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Markdown                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Other                    1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+SQL                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 43 mins       ███████████████░░░░░░░░░░   61.90 % 
-OpenClaw                 2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-Antigravity              39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Claude Code              4 hrs 50 mins       ████████████████░░░░░░░░░   62.49 % 
+OpenClaw                 2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+Antigravity              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 💻 Operating System: 
-Linux                    7 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 14 mins (94.91%)
+⏱ AI Coding Time: 7 hrs 22 mins (95.0%)
 
 ✍️ 1,067 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,150,067 Input Tokens, 478,017 Output Tokens
+🔤 4,236,534 Input Tokens, 490,729 Output Tokens
 
-💵 $59.38 Estimated AI Cost This Week
+💵 $60.31 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 87 AI Prompts
+🧠 58 AI Sessions, 91 AI Prompts
 
 Opus                     980 lines           ██████████████████░░░░░░░   72.81 % 
 Sonnet                   366 lines           ███████░░░░░░░░░░░░░░░░░░   27.19 % 
@@ -86,7 +86,7 @@ OpenClaw                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 886 characters per prompt
+📄 Detailed Prompter — average 848 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 1.84% of changed lines were hand-edited
 ```
@@ -108,5 +108,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fandredev/fandredev/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 10:59:40 UTC
+ Last Updated on 05/10/2026 11:49:27 UTC
 <!--END_SECTION:waka-->
