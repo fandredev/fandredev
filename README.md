@@ -7,13 +7,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C351%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C352%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2028%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 161.6 kB Used in GitHub's Storage 
+> 📦 161.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,028 Contributions in the Year 2026
  > 
@@ -50,44 +50,44 @@ Sunday                   1370 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.60 % 
-Other                    2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Markdown                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+TypeScript               4 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.94 % 
+Other                    2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 27 mins       ███████████████████░░░░░░   77.45 % 
-OpenClaw                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Antigravity              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Claude Code              7 hrs 48 mins       ████████████████████░░░░░   79.54 % 
+OpenClaw                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Antigravity              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 💻 Operating System: 
-Linux                    8 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 56 mins (95.25%)
+⏱ AI Coding Time: 9 hrs 24 mins (95.89%)
 
-✍️ 2,838 lines written by AI, 5 lines written by hand (99.82% AI-written)
+✍️ 3,990 lines written by AI, 5 lines written by hand (99.87% AI-written)
 
-🔤 3,351,121 Input Tokens, 744,022 Output Tokens
+🔤 3,925,391 Input Tokens, 887,939 Output Tokens
 
-💵 $59.92 Estimated AI Cost This Week
+💵 $69.79 Estimated AI Cost This Week
 
-🧠 72 AI Sessions, 102 AI Prompts
+🧠 87 AI Sessions, 134 AI Prompts
 
-Opus                     3,057 lines         █████████████████████████   100.00 % 
+Opus                     4,265 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OpenClaw                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📝 Concise Prompter — average 387 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 3.44% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📝 Concise Prompter — average 380 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 2.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,5 +107,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fandredev/fandredev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 11:02:57 UTC
+ Last Updated on 11/10/2026 10:56:40 UTC
 <!--END_SECTION:waka-->
