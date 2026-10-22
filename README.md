@@ -7,15 +7,15 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C358%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C364%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 162.0 kB Used in GitHub's Storage 
+> 📦 159.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,028 Contributions in the Year 2026
+> 🏆 1,043 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                73014 commits       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-🌆 Daytime                225960 commits      █████████████████░░░░░░░░   67.23 % 
-🌃 Evening                36251 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌙 Night                  884 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+🌞 Morning                72722 commits       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+🌆 Daytime                225065 commits      █████████████████░░░░░░░░   67.38 % 
+🌃 Evening                35573 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+🌙 Night                  652 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   34413 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Tuesday                  73470 commits       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Wednesday                81790 commits       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Thursday                 65763 commits       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Friday                   78071 commits       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-Saturday                 1205 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Sunday                   1397 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Monday                   34115 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Tuesday                  73152 commits       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Wednesday                81501 commits       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Thursday                 65255 commits       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Friday                   77721 commits       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Saturday                 1087 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Sunday                   1181 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 
@@ -50,47 +50,47 @@ Sunday                   1397 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.36 % 
-Other                    2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+TypeScript               5 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
+Other                    2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Python                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🔥 Editors: 
-Claude Code              6 hrs               ██████████████░░░░░░░░░░░   54.49 % 
-Antigravity IDE          2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Antigravity              1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-OpenClaw                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Claude Code              7 hrs 9 mins        ██████████████░░░░░░░░░░░   57.09 % 
+Antigravity IDE          3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+Antigravity              1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+OpenClaw                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Linux                    11 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    12 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 11 mins (83.42%)
+⏱ AI Coding Time: 9 hrs 53 mins (79.0%)
 
-✍️ 1,539 lines written by AI, 1,161 lines written by hand (57.0% AI-written)
+✍️ 1,629 lines written by AI, 1,198 lines written by hand (57.62% AI-written)
 
-🔤 4,350,710 Input Tokens, 666,224 Output Tokens
+🔤 4,301,060 Input Tokens, 660,122 Output Tokens
 
-💵 $59.67 Estimated AI Cost This Week
+💵 $58.77 Estimated AI Cost This Week
 
-🧠 101 AI Sessions, 151 AI Prompts
+🧠 102 AI Sessions, 179 AI Prompts
 
-Opus                     1,339 lines         ██████████████████░░░░░░░   72.89 % 
-Gemini                   498 lines           ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Opus                     1,475 lines         ███████████████████░░░░░░   74.76 % 
+Gemini                   498 lines           ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OpenClaw                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.0% of written lines came from AI
-📄 Detailed Prompter — average 526 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 56.51% of changed lines were hand-edited
+⚖️ Balanced with AI — 57.62% of written lines came from AI
+📄 Detailed Prompter — average 862 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 55.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,5 +110,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fandredev/fandredev/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 10:10:45 UTC
+ Last Updated on 22/10/2026 09:51:31 UTC
 <!--END_SECTION:waka-->
